@@ -1,8 +1,8 @@
 # ProductSearch05
-Working Product Searching application on android
+Working Product Searching application on Android written in Java.
 
-#Licence
-You are free to use this whereever you want as long as you give proper credits
+# Licence
+You can use this whenever you want if you give proper credit.
 
-#USE
-This app shows a product image and its name from amazon according to the input by the user.
+# USE
+This app shows a product image and its name by scraping data from Amazon via Jsoup according to the input by the user.
